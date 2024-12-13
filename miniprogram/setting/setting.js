@@ -1,6 +1,6 @@
  module.exports = {
  	//### 环境相关 
- 	CLOUD_ID: 'dev-5gf0o85o226fad1d', //你的云环境id 
+ 	CLOUD_ID: 'xinjiang-lzx-dev-2f1gfji18e307f6', //你的云环境id 
 
  	// #### 版本信息 
  	VER: 'build 2022.03',
